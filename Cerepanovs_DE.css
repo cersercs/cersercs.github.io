@@ -460,6 +460,7 @@
   }
 } .u-section-6 {
   background-image: url("images/default-image.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
@@ -469,12 +470,6 @@
 .u-section-6 .u-text-1 {
   margin-bottom: 0;
   margin-top: 0;
-}
-
-@media (max-width: 1199px) {
-   .u-section-6 {
-    background-position: 50% 50%;
-  }
 }.u-section-7 .u-sheet-1 {
   min-height: 502px;
 }

@@ -1252,7 +1252,7 @@
   }
 
   .u-section-9 .u-layout-cell-2 {
-    min-height: 362px;
+    min-height: 364px;
   }
 
   .u-section-9 .u-container-layout-2 {
@@ -1261,9 +1261,10 @@
   }
 
   .u-section-9 .u-btn-2 {
-    margin-left: 188px;
     padding-left: 8px;
     padding-right: 8px;
+    height: auto;
+    width: auto;
   }
 
   .u-section-9 .u-layout-cell-3 {
@@ -1303,7 +1304,8 @@
   }
 
   .u-section-9 .u-btn-2 {
-    margin-left: auto;
+    height: 38px;
+    width: 99px;
   }
 
   .u-section-9 .u-layout-cell-3 {
