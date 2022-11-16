@@ -277,9 +277,10 @@
 }
 
 .u-section-5 .u-icon-1 {
-  width: 64px;
-  height: 64px;
+  width: 60px;
+  height: 60px;
   margin: 0 auto;
+  padding: 0;
 }
 
 .u-section-5 .u-text-2 {
@@ -288,7 +289,7 @@
 }
 
 .u-section-5 .u-text-3 {
-  margin: 30px 0 0;
+  margin: 31px 0 0;
 }
 
 .u-section-5 .u-container-layout-2 {
@@ -296,9 +297,10 @@
 }
 
 .u-section-5 .u-icon-2 {
-  width: 64px;
-  height: 64px;
+  width: 60px;
+  height: 60px;
   margin: 0 auto;
+  padding: 0;
 }
 
 .u-section-5 .u-text-4 {
@@ -307,7 +309,7 @@
 }
 
 .u-section-5 .u-text-5 {
-  margin: 30px 0 0;
+  margin: 31px 0 0;
 }
 
 .u-section-5 .u-container-layout-3 {
@@ -315,9 +317,10 @@
 }
 
 .u-section-5 .u-icon-3 {
-  width: 64px;
-  height: 64px;
+  width: 60px;
+  height: 60px;
   margin: 0 auto;
+  padding: 0;
 }
 
 .u-section-5 .u-text-6 {
@@ -326,7 +329,7 @@
 }
 
 .u-section-5 .u-text-7 {
-  margin: 30px 0 0;
+  margin: 31px 0 0;
 }
 
 .u-section-5 .u-container-layout-4 {
@@ -334,9 +337,10 @@
 }
 
 .u-section-5 .u-icon-4 {
-  width: 64px;
-  height: 64px;
+  width: 60px;
+  height: 60px;
   margin: 0 auto;
+  padding: 0;
 }
 
 .u-section-5 .u-text-8 {
@@ -345,7 +349,7 @@
 }
 
 .u-section-5 .u-text-9 {
-  margin: 30px 0 0;
+  margin: 31px 0 0;
 }
 
 .u-section-5 .u-container-layout-5 {
@@ -353,9 +357,10 @@
 }
 
 .u-section-5 .u-icon-5 {
-  width: 64px;
-  height: 64px;
+  width: 60px;
+  height: 60px;
   margin: 0 auto;
+  padding: 0;
 }
 
 .u-section-5 .u-text-10 {
@@ -364,7 +369,27 @@
 }
 
 .u-section-5 .u-text-11 {
-  margin: 30px 0 0;
+  margin: 31px 0 0;
+}
+
+.u-section-5 .u-container-layout-6 {
+  padding: 10px;
+}
+
+.u-section-5 .u-icon-7 {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.u-section-5 .u-text-12 {
+  font-size: 0.875rem;
+  margin: 30px auto 0;
+}
+
+.u-section-5 .u-text-13 {
+  margin: 31px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -407,10 +432,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 2129px;
-  }
-
   .u-section-5 .u-text-1 {
     width: auto;
     margin-right: 16px;
